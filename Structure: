@@ -1,0 +1,11 @@
+qa-portfolio/
+├─ README.md                 # Main portfolio
+├─ assets/
+│   ├─ screenshots/          # Test reports, dashboards, bug reports (redacted)
+│   └─ diagrams/             # Test strategy / workflow diagrams
+└─ projects/
+    ├─ ui-automation-selenium/
+    ├─ api-testing-postman/
+    ├─ playwright-e2e-tests/
+    ├─ sql-data-validation/
+    └─ test-strategy-examples/
